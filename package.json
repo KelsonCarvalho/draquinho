@@ -1,0 +1,35 @@
+{
+  "name": "draquinho",
+  "displayName": "Draquinho",
+  "description": "Tema muito legal e estiloso para você!",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.jpeg",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/NoslekCode/bluered-theme"
+},
+"keywords": [
+  "Draquinho",
+  "Purple",
+  "dark",
+  "theme",
+  "vscode",
+  "visual"
+],
+"publisher": "kelsoncarvalho",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Draquinho",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Draquinho-color-theme.json"
+      }
+    ]
+  }
+}
