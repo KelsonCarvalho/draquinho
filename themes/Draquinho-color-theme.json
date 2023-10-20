@@ -76,7 +76,7 @@
 		"textLink.foreground": "#3794ff",
 		"editor.background": "#282a36",
 		"editor.foreground": "#f8f8f2",
-		"editorLineNumber.foreground": "#ff79c6",
+		"editorLineNumber.foreground": "#d043ec",
 		"editorCursor.foreground": "#c5a0fa",
 		"editorCursor.background": "#313341",
 		"editor.selectionBackground": "#44475a",
@@ -607,7 +607,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#631597"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -616,7 +616,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#0fc56a"
 			}
 		},
 		{
@@ -625,7 +625,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#06e3eb"
 			}
 		},
 		{
