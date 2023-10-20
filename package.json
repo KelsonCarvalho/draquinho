@@ -6,13 +6,17 @@
   "engines": {
     "vscode": "^1.83.0"
   },
+  "author": {
+    "name": "Kelson Carvalho",
+    "email": "fabriciosouuuza@gmail.com"
+  },
   "categories": [
     "Themes"
   ],
   "icon": "icon.jpeg",
   "repository": {
   "type": "git",
-  "url": "https://github.com/NoslekCode/bluered-theme"
+  "url": "https://github.com/NoslekCode/draquinho.git"
 },
 "keywords": [
   "Draquinho",
