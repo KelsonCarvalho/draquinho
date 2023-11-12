@@ -1,8 +1,8 @@
 {
   "name": "draquinho",
   "displayName": "Draquinho",
-  "description": "Tema muito legal e estiloso para você!",
-  "version": "1.0.3",
+  "description": "O tema Draquinho para o Visual Studio Code oferece uma experiência de desenvolvimento única, combinando elegância visual e funcionalidade intuitiva. Este tema apresenta uma paleta de cores suaves que proporcionam conforto visual durante longas sessões de codificação.!",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -13,7 +13,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.jpeg",
+  "icon": "icon.png",
   "repository": {
   "type": "git",
   "url": "https://github.com/NoslekCode/draquinho.git"
