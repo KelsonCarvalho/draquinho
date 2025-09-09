@@ -2,9 +2,9 @@
   "name": "draquinho",
   "displayName": "Draquinho",
   "description": "O tema Draquinho para o Visual Studio Code oferece uma experiência de desenvolvimento única, combinando elegância visual e funcionalidade intuitiva. Este tema apresenta uma paleta de cores suaves que proporcionam conforto visual durante longas sessões de codificação.!",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.103.0"
   },
   "author": {
     "name": "Kelson Carvalho",
